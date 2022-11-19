@@ -1,9 +1,3 @@
 - 👋 Hi, I’m @RiteshRayash77
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning javascript 
-
-
-<!---
-RiteshRayash77/RiteshRayash77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web designing and development
+- 🌱 I’m currently learning javascript
